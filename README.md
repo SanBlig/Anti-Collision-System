@@ -1,4 +1,4 @@
-# Anti-Collision-System
+# Collision-Prevention-System
 Arduino Uno and Ultrasonic sensor
 
 
